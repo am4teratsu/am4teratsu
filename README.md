@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+el+dise%C3%B1o+UI;El+c%C3%B3digo+es+mi+mapa%2C+cada+proyecto+una+partida;Lima%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
-
 # Mathias Porras
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+el+dise%C3%B1o+UI;El+c%C3%B3digo+es+mi+mapa%2C+cada+proyecto+una+partida;Lima%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/am4teratsu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathias-porras-vilca-73241b311/)
